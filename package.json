@@ -289,7 +289,7 @@
 	},
 	"dependencies": {
 		"ansi-regex": "^6.0.1",
-		"axios": "^1.7.4",
+		"axios": "^1.7.7",
 		"class-transformer": "^0.5.1",
 		"inversify": "^5.1.1",
 		"luxon": "^3.4.4",
