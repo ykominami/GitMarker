@@ -288,7 +288,7 @@
 		"vscode-test": "^1.5.2"
 	},
 	"dependencies": {
-		"ansi-regex": "^6.0.1",
+		"ansi-regex": "^6.1.0",
 		"axios": "^1.7.7",
 		"class-transformer": "^0.5.1",
 		"inversify": "^5.1.1",
