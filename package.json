@@ -293,6 +293,6 @@
 		"class-transformer": "^0.5.1",
 		"inversify": "^5.1.1",
 		"luxon": "^3.5.0",
-		"reflect-metadata": "^0.2.1"
+		"reflect-metadata": "^0.2.2"
 	}
 }
